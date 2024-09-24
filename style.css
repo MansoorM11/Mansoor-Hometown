@@ -18,11 +18,21 @@ a{
 a:hover{
     border-bottom: 2px solid black;
 }
-
+ul  {
+    list-style: none;
+}
 .header {
     margin: 0 auto;
     text-align: center;
 }
+
+.list li  {
+    border-bottom: 2px solid black;
+    width: 20%;
+    margin: 0 auto;
+    padding: 10px 0px;
+}
+
 
 .lahore-title{
     background: #d4a373;
